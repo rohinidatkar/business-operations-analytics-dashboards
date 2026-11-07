@@ -2,44 +2,28 @@
 
 **Excel | MIS Reporting | Operations Analytics | Business Intelligence**
 
-## About the Project
+A portfolio practice project demonstrating how spreadsheet-based analysis can support operational reporting, productivity monitoring, order fulfilment tracking, and sales performance review.
 
-This repository showcases three business analytics dashboard demonstrations developed using synthetic business datasets.
+> **Data note:** All records are synthetic and created for learning and demonstration. They are not actual employer, client, or customer data.
 
-The objective is to explore how data analytics can support business performance monitoring, operational reporting, order fulfilment tracking and data-driven decision-making.
+## Dashboard previews
 
-**Note:** All datasets are synthetic and created exclusively for learning and demonstration purposes. They are not actual company or client data.
+The workbook contains three Excel dashboard demonstrations:
 
-## Dashboards Included
+### 1. MIS Reporting & Productivity
+Employee-day reporting with department-level targets, completed work, pending items, error counts, and monthly completion trends.
 
-### 1. MIS Reporting & Business Performance
-- Employee productivity monitoring
-- Target vs. actual performance
-- Department-wise reporting
-- Pending workload tracking
-- Data accuracy and error monitoring
+### 2. Order Fulfilment & Operations
+Order lifecycle reporting with delivery status, on-time delivery, open backlog, returned orders, order value, and regional breakdowns.
 
-**Tools:** Microsoft Excel, Pivot Tables, Excel Formulas
+### 3. Sales & Refunds Performance
+Transaction-level reporting with gross sales, discounts, refunds, net sales, refund rate, category performance, and monthly trends.
 
-### 2. Order Fulfilment & Operations Analytics
-- Order status monitoring
-- On-time delivery tracking
-- Order backlog analysis
-- Average turnaround time
-- Regional performance analysis
+> **Screenshots coming next:** Dashboard preview images will be added to the `screenshots/` folder and embedded here.
 
-**Tools:** Excel, SQL, Power BI
+## Workbook and datasets
 
-### 3. Sales & Refund Analytics
-- Gross and net sales analysis
-- Discount and refund monitoring
-- Category-wise performance
-- Revenue trends
-- Refund rate analysis
-
-**Tools:** Excel, SQL, Power BI
-
-## Dataset Overview
+[Download the Excel dashboard practice pack](Data_Analytics_Dashboard_Practice_Pack.xlsx)
 
 | Dataset | Records |
 |---|---:|
@@ -48,31 +32,28 @@ The objective is to explore how data analytics can support business performance 
 | Sales & Refunds | 450 |
 | **Total** | **1,190** |
 
-## Skills Demonstrated
+## Skills and concepts practised
 
-- Data Cleaning and Preparation
-- Advanced Excel
-- SQL and Data Analysis
-- Power BI and Business Intelligence
-- KPI Development
-- MIS Reporting
-- Operational Performance Analysis
-- Business Reporting and Visualisation
+- Excel formulas, structured data, tables, and charts
+- KPI definition and calculation
+- MIS and operational reporting
+- Target-versus-actual analysis
+- Order status, backlog, and delivery performance
+- Sales, discounts, refunds, and net sales analysis
+- Business interpretation and dashboard communication
 
-## Project Objectives
+## Suggested analysis questions
 
-1. Understand business reporting requirements.
-2. Develop meaningful performance indicators.
-3. Analyse operational and sales trends.
-4. Identify performance gaps and potential bottlenecks.
-5. Communicate analytical findings through dashboards.
+- Which department has the strongest target achievement, and how does its error count compare?
+- Which order statuses contribute most to the open backlog?
+- Which regions have the highest order volumes?
+- Which sales categories contribute most to net sales?
+- How does the refund rate change across months?
 
-## Project Status
+## Project scope and status
 
-**Learning and independent implementation in progress.**
-
-The initial workbook serves as a synthetic demonstration template. Independent dashboard recreation, additional SQL analysis and Power BI implementations will be documented as the project progresses.
+This repository is a learning and portfolio demonstration. The Excel practice pack provides a starting implementation using synthetic data. Further independent analysis, SQL queries, and Power BI recreations can be added as separate, clearly documented project work.
 
 ## Disclaimer
 
-This is an independent learning project. The datasets and illustrative business scenarios do not represent actual operations or confidential information from any organisation.
+This project is independently maintained for educational purposes. The fictional datasets, employee names, order records, and business scenarios do not represent real organisations or confidential business information.
